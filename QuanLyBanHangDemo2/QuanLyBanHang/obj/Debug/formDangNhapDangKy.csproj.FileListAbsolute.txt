@@ -1,0 +1,48 @@
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\DNhapDKy.mdf
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\DNhapDKy_log.ldf
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\formDangNhapDangKy.exe.config
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\formDangNhapDangKy.exe
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\formDangNhapDangKy.pdb
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.AssemblyReference.cache
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.Properties.Resources.resources
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.GenerateResource.cache
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.CoreCompileInputs.cache
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.exe
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.pdb
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.DangNhap.resources
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.DangKy.resources
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.QuenMatKhau.resources
+D:\Visual tim\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.Home.resources
+D:\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\DNhapDKy.mdf
+D:\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\DNhapDKy_log.ldf
+D:\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\formDangNhapDangKy.exe.config
+D:\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\formDangNhapDangKy.exe
+D:\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\formDangNhapDangKy.pdb
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.AssemblyReference.cache
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.SuggestedBindingRedirects.cache
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.DangNhap.resources
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.DangKy.resources
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.QuenMatKhau.resources
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.Home.resources
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.Properties.Resources.resources
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.GenerateResource.cache
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.CoreCompileInputs.cache
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.exe
+D:\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.pdb
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\DNhapDKy.mdf
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\DNhapDKy_log.ldf
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\formDangNhapDangKy.exe.config
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\formDangNhapDangKy.exe
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\bin\Debug\formDangNhapDangKy.pdb
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.AssemblyReference.cache
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.SuggestedBindingRedirects.cache
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.DangNhap.resources
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.DangKy.resources
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.QuenMatKhau.resources
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.Home.resources
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.Properties.Resources.resources
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.GenerateResource.cache
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.csproj.CoreCompileInputs.cache
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.exe
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\formDangNhapDangKy.pdb
+D:\C#\formDangNhapDangKy\formDangNhapDangKy\obj\Debug\Quản_lý_bán_hàng.frmNhaCC.resources
